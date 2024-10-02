@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-percentage-of-users-attended-a-contest](https://github.com/mahipprasad/LeetCode-MYSQL/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1908-recyclable-and-low-fat-products](https://github.com/mahipprasad/LeetCode-Questions/tree/master/1908-recyclable-and-low-fat-products) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/mahipprasad/LeetCode-Questions/tree/master/2127-employees-whose-manager-left-the-company) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/mahipprasad/LeetCode-MYSQL/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/mahipprasad/LeetCode-MYSQL/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
