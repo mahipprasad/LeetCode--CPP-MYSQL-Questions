@@ -29,4 +29,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/mahipprasad/LeetCode-MYSQL/tree/master/0009-palindrome-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/mahipprasad/LeetCode--CPP-MYSQL-Questions/tree/master/0405-convert-a-number-to-hexadecimal) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/mahipprasad/LeetCode--CPP-MYSQL-Questions/tree/master/0405-convert-a-number-to-hexadecimal) |
 <!---LeetCode Topics End-->
