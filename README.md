@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mahipprasad/LeetCode-MYSQL/tree/master/0001-two-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/mahipprasad/LeetCode--CPP-MYSQL-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/mahipprasad/LeetCode--CPP-MYSQL-Questions/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/mahipprasad/LeetCode--CPP-MYSQL-Questions/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/mahipprasad/LeetCode--CPP-MYSQL-Questions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0628-maximum-product-of-three-numbers](https://github.com/mahipprasad/LeetCode--CPP-MYSQL-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -48,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/mahipprasad/LeetCode--CPP-MYSQL-Questions/tree/master/0258-add-digits) |
+## Sorting
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/mahipprasad/LeetCode--CPP-MYSQL-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 <!---LeetCode Topics End-->
