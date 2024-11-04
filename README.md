@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/mahipprasad/LeetCode-MYSQL/tree/master/0009-palindrome-number) |
+| [0258-add-digits](https://github.com/mahipprasad/LeetCode--CPP-MYSQL-Questions/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/mahipprasad/LeetCode--CPP-MYSQL-Questions/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/mahipprasad/LeetCode--CPP-MYSQL-Questions/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Bit Manipulation
@@ -39,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/mahipprasad/LeetCode--CPP-MYSQL-Questions/tree/master/0367-valid-perfect-square) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/mahipprasad/LeetCode--CPP-MYSQL-Questions/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/mahipprasad/LeetCode--CPP-MYSQL-Questions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
