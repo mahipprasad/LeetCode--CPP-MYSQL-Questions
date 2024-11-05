@@ -21,11 +21,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mahipprasad/LeetCode-MYSQL/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/mahipprasad/LeetCode--CPP-MYSQL-Questions/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mahipprasad/LeetCode--CPP-MYSQL-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mahipprasad/LeetCode-MYSQL/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/mahipprasad/LeetCode--CPP-MYSQL-Questions/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -53,5 +55,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/mahipprasad/LeetCode--CPP-MYSQL-Questions/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mahipprasad/LeetCode--CPP-MYSQL-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 <!---LeetCode Topics End-->
