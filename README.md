@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mahipprasad/LeetCode-MYSQL/tree/master/0001-two-sum) |
+| [0189-rotate-array](https://github.com/mahipprasad/LeetCode--CPP-MYSQL-Questions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/mahipprasad/LeetCode--CPP-MYSQL-Questions/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mahipprasad/LeetCode--CPP-MYSQL-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Hash Table
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/mahipprasad/LeetCode-MYSQL/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/mahipprasad/LeetCode--CPP-MYSQL-Questions/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/mahipprasad/LeetCode--CPP-MYSQL-Questions/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/mahipprasad/LeetCode--CPP-MYSQL-Questions/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/mahipprasad/LeetCode--CPP-MYSQL-Questions/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/mahipprasad/LeetCode--CPP-MYSQL-Questions/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mahipprasad/LeetCode--CPP-MYSQL-Questions/tree/master/0628-maximum-product-of-three-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/mahipprasad/LeetCode--CPP-MYSQL-Questions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
