@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/mahipprasad/LeetCode--CPP-MYSQL-Questions/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/mahipprasad/LeetCode--CPP-MYSQL-Questions/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/mahipprasad/LeetCode--CPP-MYSQL-Questions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/mahipprasad/LeetCode--CPP-MYSQL-Questions/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mahipprasad/LeetCode--CPP-MYSQL-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Bit Manipulation
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/mahipprasad/LeetCode--CPP-MYSQL-Questions/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/mahipprasad/LeetCode--CPP-MYSQL-Questions/tree/master/0412-fizz-buzz) |
 ## Number Theory
 |  |
 | ------- |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/mahipprasad/LeetCode--CPP-MYSQL-Questions/tree/master/0189-rotate-array) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/mahipprasad/LeetCode--CPP-MYSQL-Questions/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
