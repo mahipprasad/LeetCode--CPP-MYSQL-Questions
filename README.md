@@ -65,8 +65,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/mahipprasad/LeetCode--CPP-MYSQL-Questions/tree/master/0189-rotate-array) |
+| [0696-count-binary-substrings](https://github.com/mahipprasad/LeetCode--CPP-MYSQL-Questions/tree/master/0696-count-binary-substrings) |
 ## String
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/mahipprasad/LeetCode--CPP-MYSQL-Questions/tree/master/0412-fizz-buzz) |
+| [0696-count-binary-substrings](https://github.com/mahipprasad/LeetCode--CPP-MYSQL-Questions/tree/master/0696-count-binary-substrings) |
 <!---LeetCode Topics End-->
