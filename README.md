@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/mahipprasad/LeetCode--CPP-MYSQL-Questions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/mahipprasad/LeetCode-MYSQL/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/mahipprasad/LeetCode--CPP-MYSQL-Questions/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/mahipprasad/LeetCode--CPP-MYSQL-Questions/tree/master/0258-add-digits) |
@@ -71,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/mahipprasad/LeetCode--CPP-MYSQL-Questions/tree/master/0412-fizz-buzz) |
 | [0696-count-binary-substrings](https://github.com/mahipprasad/LeetCode--CPP-MYSQL-Questions/tree/master/0696-count-binary-substrings) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/mahipprasad/LeetCode--CPP-MYSQL-Questions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/mahipprasad/LeetCode--CPP-MYSQL-Questions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
